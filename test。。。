@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main();
 {
-float a=2.3;
-float b=3.2;
+float a=2;
+float b=300;
 float c;
 c=a+b; 
 prinft("%f",c);
