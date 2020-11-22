@@ -3,8 +3,9 @@ int main();
 {
 float a=2;
 float b=300;
-float c;
-c=a+b; 
-prinft("%f",c);
+float c=33;
+float d;
+d=a+b+c; 
+prinft("%f",d);
 getchar();
 }
