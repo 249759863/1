@@ -7,5 +7,4 @@ float c=33;
 float d;
 d=a+b+c; 
 prinft("%f",d);
-getchar();
 }
